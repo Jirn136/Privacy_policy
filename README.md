@@ -32,7 +32,7 @@ Your data is securely stored and encrypted. We take appropriate security measure
 ## Account and Data Management
 
 You can request data deletion or account removal at any time by contacting us at:
-**Email:** \[[janakiraman.babu@grootan.com](janakiraman.babu@grootan.com)] *(Replace with your support email)*
+**Email:** \[[janakiraman.babu@grootan.com](janakiraman.babu@grootan.com)]
 
 Upon receiving a request, we will permanently delete your email and all associated mood entries from our servers.
 
@@ -47,4 +47,4 @@ If we update our privacy practices, we’ll update this policy accordingly. Any 
 ## Contact
 
 For any questions or concerns about your privacy or this policy, please reach out to:
-**Email:** \[[janakiraman.babu@grootan.com](janakiraman.babu@grootan.com)] *(Replace with actual support email)*
+**Email:** \[[janakiraman.babu@grootan.com](janakiraman.babu@grootan.com)]
