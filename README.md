@@ -2,11 +2,11 @@
 
 **Effective Date:** \[10-06-2025]
 
-**Vibly – Private Mood Tracking**
+**Vibely – Private Mood Tracking**
 
 ## Overview
 
-Vibly is a simple, distraction-free mood tracker built with your privacy in mind. We are committed to collecting as little data as possible and never use your information for anything beyond the app's core functionality.
+Vibely is a simple, distraction-free mood tracker built with your privacy in mind. We are committed to collecting as little data as possible and never use your information for anything beyond the app's core functionality.
 
 ## What We Collect
 
@@ -38,7 +38,7 @@ Upon receiving a request, we will permanently delete your email and all associat
 
 ## Children's Privacy
 
-Vibly is not intended for use by children under the age of 13. We do not knowingly collect data from children. If we learn we have collected data from a child without parental consent, we will delete it.
+Vibely is not intended for use by children under the age of 13. We do not knowingly collect data from children. If we learn we have collected data from a child without parental consent, we will delete it.
 
 ## Changes to This Policy
 
